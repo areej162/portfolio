@@ -1,0 +1,84 @@
+[
+  {
+    "id": "project-1",
+    "title": "Number Plate Detection System",
+    "description": "AI-powered license plate detection and recognition system.",
+    "longDescription": "Developed an end-to-end system to detect and recognize vehicle license plates using Django REST APIs and a Next.js frontend. Integrated Firebase authentication and designed a responsive dashboard for user profile and plate management.",
+    "tags": ["Next.js", "Django", "Firebase", "Computer Vision"],
+    "imageUrl": "https://images.pexels.com/photos/195364/pexels-photo-195364.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "featured": true
+  },
+  {
+    "id": "project-2",
+    "title": "MERN Blog Management System",
+    "description": "Blog admin panel with JWT authentication and CRUD features.",
+    "longDescription": "Built a full-featured blog management system with the MERN stack during my internship at DaasTech. Added JWT authentication for secure user access, created CRUD operations for posts, and designed a responsive SCSS-based UI with smooth Framer Motion animations.",
+    "tags": ["MongoDB", "Express.js", "React", "Node.js", "SCSS", "Framer Motion"],
+    "imageUrl": "https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "featured": true
+  },
+  {
+    "id": "project-3",
+    "title": "Mini Mumin – Quran Learning App",
+    "description": "Educational Quran app for kids with AI chatbot and parental tracking.",
+    "longDescription": "Created an interactive Quran learning application for children. The app features parental tracking tools and an AI-powered chatbot that helps kids learn and practice effectively. Focused on a mobile-first design and scalable backend.",
+    "tags": ["Next.js", "Cosmos DB", "AI Chatbot", "Education"],
+    "imageUrl": "https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "featured": false
+  },
+  {
+    "id": "project-4",
+    "title": "Customer Engagement Sentiment Analysis",
+    "description": "NLP-based customer engagement and retention insights system.",
+    "longDescription": "Built dashboards and applied sentiment analysis on customer feedback to identify satisfaction levels and engagement trends. Performed ETL workflows to process large datasets and delivered insights to improve customer retention strategies.",
+    "tags": ["Python", "NLP", "Power BI", "SQL Server", "EF Core"],
+    "imageUrl": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "featured": false
+  },
+  {
+    "id": "project-5",
+    "title": "Market Basket Analysis & Sales Dashboard",
+    "description": "Power BI dashboard with ML-powered product recommendations.",
+    "longDescription": "Designed a sales dashboard in Power BI to visualize performance metrics and customer purchasing trends. Implemented Market Basket Analysis using ML to discover frequently bought-together items and enhance cross-selling strategies.",
+    "tags": ["Power BI", "Machine Learning", "Data Visualization", "Business Intelligence"],
+    "imageUrl": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "featured": false
+  },
+  {
+    "id": "project-6",
+    "title": "Plant Disease Detection",
+    "description": "Machine learning model for classifying plant leaf diseases.",
+    "longDescription": "Built and trained an ML image classification model to detect plant diseases from leaf images. Used preprocessing, CNN architectures, and evaluation metrics to deliver an early warning tool for farmers to improve crop health.",
+    "tags": ["Python", "TensorFlow", "Keras", "Image Classification"],
+    "imageUrl": "https://images.pexels.com/photos/765903/pexels-photo-765903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "featured": false
+  },
+  {
+  "id": "project-7",
+  "title": "ScholarLite (Side Project)",
+  "description": "AI-powered research paper finder and summarizer.",
+  "longDescription": "Developing ScholarLite, an AI research assistant that allows users to enter a topic, fetch relevant academic papers, and summarize them into concise insights. Features semantic paper search, abstract summarization using NLP models, and a clean, interactive UI built with Streamlit.",
+  "tags": ["Python", "Streamlit", "Semantic Scholar API", "Hugging Face Transformers", "NLP"],
+  "imageUrl": "https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "featured": false
+}
+,
+  {
+    "id": "project-8",
+    "title": ".NET Freelancing Project",
+    "description": "Collaborative website development using .NET stack.",
+    "longDescription": "Worked with a freelancing group to develop a .NET-based website. Focused on backend development, database management, and deployment setup, while adhering to industry standards and teamwork practices.",
+    "tags": [".NET", "C#", "SQL Server", "Web Development"],
+    "imageUrl": "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "featured": false
+  },
+  {
+    "id": "project-9",
+    "title": "Frontend Internship Projects",
+    "description": "Responsive UI development during internship experience.",
+    "longDescription": "Contributed to multiple real-world projects during my internship, focusing on building optimized responsive UIs, integrating APIs, and collaborating with a cross-functional development team. Gained hands-on experience with React, Next.js, and modern frontend workflows.",
+    "tags": ["React", "Next.js", "API Integration", "UI Development"],
+    "imageUrl": "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "featured": false
+  }
+]

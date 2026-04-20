@@ -1,0 +1,57 @@
+[
+  {
+    "name": "React.js",
+    "level": 85,
+    "category": "frontend"
+  },
+  {
+    "name": "Next.js",
+    "level": 80,
+    "category": "frontend"
+  },
+  {
+    "name": "TypeScript",
+    "level": 75,
+    "category": "frontend"
+  },
+  {
+    "name": "JavaScript (ES6+)",
+    "level": 85,
+    "category": "frontend"
+  },
+  {
+    "name": "HTML5 & CSS3 / Tailwind",
+    "level": 90,
+    "category": "frontend"
+  },
+  {
+    "name": "Node.js & Express.js",
+    "level": 75,
+    "category": "backend"
+  },
+  {
+    "name": "MongoDB / Firebase",
+    "level": 70,
+    "category": "backend"
+  },
+  {
+    "name": "Python (Data Science)",
+    "level": 70,
+    "category": "data-science"
+  },
+  {
+    "name": "Machine Learning (Scikit-learn, Pandas)",
+    "level": 65,
+    "category": "data-science"
+  },
+  {
+    "name": "Git & GitHub",
+    "level": 80,
+    "category": "tools"
+  },
+  {
+    "name": "UI/UX Design (Figma)",
+    "level": 70,
+    "category": "design"
+  }
+]

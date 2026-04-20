@@ -1,0 +1,46 @@
+[
+  {
+    "id": "exp-1",
+    "company": "DaasTech",
+    "position": "MERN Stack Intern",
+    "duration": "2023",
+    "startDate": "2023-06-01",
+    "endDate": "2023-08-31",
+    "description": "Worked as an intern focusing on backend features for a blog management system and call scheduling. Built APIs with Express.js, integrated JWT authentication, and contributed to frontend features using React.",
+    "technologies": ["MongoDB", "Express.js", "React", "Node.js", "JWT"],
+    "type": "work"
+  },
+  {
+    "id": "exp-2",
+    "company": "Freelancing Group",
+    "position": ".NET Developer (Freelance)",
+    "duration": "2024 - Present",
+    "startDate": "2024-01-01",
+    "description": "Collaborated with a freelancing group to develop and deploy a website using the .NET framework. Contributed to backend development, SQL database integration, and deployment setup while following agile workflows.",
+    "technologies": [".NET", "C#", "PostgreSQL", "Web Development"],
+    "type": "work"
+  },
+  {
+    "id": "exp-3",
+    "company": "ACM Fellowship",
+    "position": "Frontend Developer",
+    "duration": "2022",
+    "startDate": "2022-07-01",
+    "endDate": "2022-09-30",
+    "description": "Contributed to real-world client projects during my internship. Focused on building responsive user interfaces, integrating REST APIs, and collaborating in a cross-functional team environment using modern frontend workflows.",
+    "technologies": ["React", "Next.js", "Tailwind CSS", "API Integration"],
+    "type": "work"
+  },
+  {
+  "id": "exp-4",
+  "company": "University of Engineering and Technology (UET) Lahore",
+  "position": "BS Computer Science",
+  "duration": "2021 - 2026*",
+  "startDate": "2021-09-01",
+  "endDate": "2025-06-30",
+  "description": "Pursuing a Bachelor's degree in Computer Science with coursework in software engineering, databases, artificial intelligence, and information security. Actively working on academic and personal projects in full stack development, machine learning, and data science. Current CGPA: 3.6.",
+  "technologies": ["MERN Stack", "React.js", "Node.js", "Python", "Machine Learning", "Databases", "Information Security"],
+  "type": "education"
+}
+
+]
